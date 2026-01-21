@@ -57,7 +57,7 @@
 </head>
 <body>
     <div id="main">
-        <h1 id="title">riptide<span style="font-size: 16px; font-weight: 400;"> v1.0.9</span></h1>
+        <h1 id="title">this site is deprecated and i haven't updated it in months, you should probably stop using it. (hint: i might be working on something new, keep your eyes peeled...)</h1>
         a document to share info and resources for curing boredom at school.
         <h2>table of contents</h2>
         <ul style="list-style-type:disc;">
